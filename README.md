@@ -1,2 +1,1 @@
-# docker-laravel-8
-Docker laravel 8
+# Docker and Docker Compose using php 8 and NGINX 
